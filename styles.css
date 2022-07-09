@@ -76,10 +76,36 @@ main {
 main .main-logo {
     width: 53rem;
     margin: 0 auto;
-    margin-bottom: 3.5rem;
+    margin-bottom: 1rem;
 }
+ main .main-logo img {
+    width: 29rem;
+    height: 15rem;
+ }
 
+ main .main-input {
+    width: 53rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+ }
 
+ main .main-input-container {
+    width: 52.5rem;
+    border-radius: 10rem; 
+    border: 0.1rem solid #dadadb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+ main .main-input input {
+    width: 45rem;
+    height: 4rem;
+    border: none;
+    outline: none;
+
+ }
 
 
 
