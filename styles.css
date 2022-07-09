@@ -90,7 +90,7 @@ main .main-logo {
  }
 
  main .main-input-container {
-    width: 52.5rem;
+    width: 54.5rem;
     height: 4.5rem;
     border-radius: 10rem; 
     border: 0.1rem solid #dadadb;
@@ -116,6 +116,7 @@ main .main-logo {
     background-size: contain;
     width: 1.5rem;
     height: 1.5rem;
+    margin-right: 1.5rem;
     
  }
 
