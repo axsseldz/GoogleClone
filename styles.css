@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+    height: 6rem;
+
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.right-section {
+    width: 25rem;
+    height: 6rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .right-section a {
+    margin-right: 1rem;
+    color: #000000;
+
+}
+
+nav .right-section .icon-nav {
+    background-image: url('https://static.thenounproject.com/png/756729-200.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-left: 1rem;
+}
+
+nav .right-section img {
+    border-radius: 5rem;
+    margin-left: 2rem;
+    width: 3rem;
+    height: 3rem;
+
+}
+
+nav .right-section .imagenes-nav {
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+
+nav .right-section .gmail-nav {
+    font-size: 1.3rem;
+    margin-left: 2.5rem;
+}
+
+
+
+
+
+
+
+
