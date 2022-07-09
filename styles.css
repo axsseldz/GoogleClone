@@ -68,6 +68,17 @@ nav .right-section .gmail-nav {
     margin-left: 2.5rem;
 }
 
+main {
+    margin-top: 15rem;
+    text-align: center;
+}
+
+main .main-logo {
+    width: 53rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+
 
 
 
